@@ -1,5 +1,3 @@
-# retail-sales-etl-pipeline
-
 # Retail Sales ETL Pipeline & Data Warehouse
 
 An end-to-end ETL pipeline that extracts raw retail transaction data, cleans and transforms it, loads it into a star-schema data warehouse, and analyzes it using SQL.
